@@ -91,6 +91,7 @@ Shader "Illumination models/Test Shader"
                     fixed3 worldViewDir = normalize(UnityWorldSpaceViewDir(i.worldPos));
                     fixed3 halfDir = normalize(worldViewDir + worldLightDir);
 
+                    ambient = UNITY_LIGHTMODEL_AMBIENT.rgb;
                     diffuse = _LightColor0.rgb * _Color.rgb * saturate(dot(worldNormal, worldLightDir));
                     specular = _LightColor0.rgb * _Specular.rgb * pow(saturate(dot(worldNormal, halfDir)), _Gloss);
                 #endif
