@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: f6b6d89a26104574693aac426283ceb8
+timeCreated: 1568984654
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Seulbi Lee_Body
+    100004: Seulbi Lee_Eye
+    100006: Seulbi Lee_Face
+    100008: Seulbi Lee_Foot
+    100010: Seulbi Lee_Hair
+    100012: Seulbi Lee_Hands
+    100014: Seulbi Lee_Tooth
+    100016: Seulbi Lee_Underpants
+    100018: Seulbi Lee_Underwear
+    400000: //RootNode
+    400002: Seulbi Lee_Body
+    400004: Seulbi Lee_Eye
+    400006: Seulbi Lee_Face
+    400008: Seulbi Lee_Foot
+    400010: Seulbi Lee_Hair
+    400012: Seulbi Lee_Hands
+    400014: Seulbi Lee_Tooth
+    400016: Seulbi Lee_Underpants
+    400018: Seulbi Lee_Underwear
+    2100000: 'Material #14'
+    2100002: 'Material #2'
+    2100004: 'Material #3'
+    2100006: 'Material #4'
+    2100008: 'Material #8'
+    2100010: 'Material #11'
+    2100012: 'Material #12'
+    2300000: Seulbi Lee_Body
+    2300002: Seulbi Lee_Eye
+    2300004: Seulbi Lee_Face
+    2300006: Seulbi Lee_Foot
+    2300008: Seulbi Lee_Hair
+    2300010: Seulbi Lee_Hands
+    2300012: Seulbi Lee_Tooth
+    2300014: Seulbi Lee_Underpants
+    2300016: Seulbi Lee_Underwear
+    3300000: Seulbi Lee_Body
+    3300002: Seulbi Lee_Eye
+    3300004: Seulbi Lee_Face
+    3300006: Seulbi Lee_Foot
+    3300008: Seulbi Lee_Hair
+    3300010: Seulbi Lee_Hands
+    3300012: Seulbi Lee_Tooth
+    3300014: Seulbi Lee_Underpants
+    3300016: Seulbi Lee_Underwear
+    4300000: Seulbi Lee_Foot
+    4300002: Seulbi Lee_Hair
+    4300004: Seulbi Lee_Face
+    4300006: Seulbi Lee_Eye
+    4300008: Seulbi Lee_Tooth
+    4300010: Seulbi Lee_Body
+    4300012: Seulbi Lee_Underwear
+    4300014: Seulbi Lee_Hands
+    4300016: Seulbi Lee_Underpants
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

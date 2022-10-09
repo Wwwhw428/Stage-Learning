@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: e7598a39dcc0e154d9106555cd6363e4
+timeCreated: 1568950855
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Shape_01
+    100004: Shape_01_Body
+    100006: Shape_01_Eye
+    100008: Shape_01_Eyebrow
+    100010: Shape_01_Eyelash
+    100012: Shape_01_Face
+    100014: Shape_01_Hair
+    100016: Shape_01_Lips
+    100018: Shape_01_Slipper
+    100020: Shape_01_Sunglasses
+    100022: Shape_01_Tongue
+    100024: Shape_02
+    400000: //RootNode
+    400002: Shape_01
+    400004: Shape_01_Body
+    400006: Shape_01_Eye
+    400008: Shape_01_Eyebrow
+    400010: Shape_01_Eyelash
+    400012: Shape_01_Face
+    400014: Shape_01_Hair
+    400016: Shape_01_Lips
+    400018: Shape_01_Slipper
+    400020: Shape_01_Sunglasses
+    400022: Shape_01_Tongue
+    400024: Shape_02
+    2100000: 'Material #0'
+    2100002: 'Material #32'
+    2100004: 'Material #33'
+    2100006: 'Material #5'
+    2100008: 'Material #34'
+    2100010: 'Material #1'
+    2300000: Shape_01
+    2300002: Shape_01_Body
+    2300004: Shape_01_Eye
+    2300006: Shape_01_Eyebrow
+    2300008: Shape_01_Eyelash
+    2300010: Shape_01_Face
+    2300012: Shape_01_Hair
+    2300014: Shape_01_Lips
+    2300016: Shape_01_Slipper
+    2300018: Shape_01_Sunglasses
+    2300020: Shape_01_Tongue
+    2300022: Shape_02
+    3300000: Shape_01
+    3300002: Shape_01_Body
+    3300004: Shape_01_Eye
+    3300006: Shape_01_Eyebrow
+    3300008: Shape_01_Eyelash
+    3300010: Shape_01_Face
+    3300012: Shape_01_Hair
+    3300014: Shape_01_Lips
+    3300016: Shape_01_Slipper
+    3300018: Shape_01_Sunglasses
+    3300020: Shape_01_Tongue
+    3300022: Shape_02
+    4300000: Shape_01_Body
+    4300002: Shape_01_Hair
+    4300004: Shape_01_Face
+    4300006: Shape_01_Sunglasses
+    4300008: Shape_01_Eyelash
+    4300010: Shape_01_Eyebrow
+    4300012: Shape_01_Tongue
+    4300014: Shape_01_Lips
+    4300016: Shape_01
+    4300018: Shape_01_Slipper
+    4300020: Shape_01_Eye
+    4300022: Shape_02
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

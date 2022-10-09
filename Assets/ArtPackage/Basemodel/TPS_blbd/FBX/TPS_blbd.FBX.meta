@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 256cff893f553184dad2a9a4a3fa8edc
+timeCreated: 1568984888
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TPS_blbd_Body
+    100004: TPS_blbd_Clothes
+    100006: TPS_blbd_Eye
+    100008: TPS_blbd_Eyebrow
+    100010: TPS_blbd_Face
+    100012: TPS_blbd_Hair
+    400000: //RootNode
+    400002: TPS_blbd_Body
+    400004: TPS_blbd_Clothes
+    400006: TPS_blbd_Eye
+    400008: TPS_blbd_Eyebrow
+    400010: TPS_blbd_Face
+    400012: TPS_blbd_Hair
+    2100000: 'Material #2'
+    2100002: 'Material #3'
+    2100004: 'Material #0'
+    2100006: 'Material #1'
+    2100008: 'Material #4'
+    2100010: 'Material #5'
+    2300000: TPS_blbd_Body
+    2300002: TPS_blbd_Clothes
+    2300004: TPS_blbd_Eye
+    2300006: TPS_blbd_Eyebrow
+    2300008: TPS_blbd_Face
+    2300010: TPS_blbd_Hair
+    3300000: TPS_blbd_Body
+    3300002: TPS_blbd_Clothes
+    3300004: TPS_blbd_Eye
+    3300006: TPS_blbd_Eyebrow
+    3300008: TPS_blbd_Face
+    3300010: TPS_blbd_Hair
+    4300000: TPS_blbd_Clothes
+    4300002: TPS_blbd_Body
+    4300004: TPS_blbd_Face
+    4300006: TPS_blbd_Eye
+    4300008: TPS_blbd_Hair
+    4300010: TPS_blbd_Eyebrow
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
